@@ -1,5 +1,44 @@
 @import url(https://fonts.googleapis.com/css?family=Righteous);
 
+.redeclas{
+    margin: 0 250px;
+    position: absolute;
+    text-decoration: none;
+    color: royalblue;
+}
+.redeclas2{
+  margin: 0 218px;
+  position: absolute;
+  text-decoration: none;
+  color: #f2003c;
+}
+.redeclas3{
+  margin: 0 185px;
+  position: absolute;
+  text-decoration: none;
+  color: royalblue;
+}
+.redeclas4{
+  margin: 0 146px;
+  position: absolute;
+  text-decoration: none;
+  color: red;
+}
+.redeclas5{
+  margin: 0px 111px;
+  position: absolute;
+  text-decoration: none;
+  color: royalblue;
+}
+
+.txtrede{
+  color: white;
+  margin: 100px 0px;
+  position: absolute;
+  text-align: center;
+}
+
+
 *, *:before, *:after {
   margin: 0;
   padding: 0;
@@ -7,9 +46,7 @@
   position: relative;
   }
 
-html, body {
-  height: 100%;
-  }
+
   body {
     text-align: center;
     background-color: #B57EDC;
