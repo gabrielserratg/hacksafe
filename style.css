@@ -85,7 +85,7 @@ footer {
   background-color: #2e3133;
   position: fixed;
   left: 10px;		   /*Direta ou esquerda*/ 
-  bottom: 180px;           /*Altura!*/
+  bottom: 120px;           /*Altura!*/
   border-radius: 15px 25px; /*Tamanho das bordas*/
   border: 3.5px solid #99ff00; /*Cor da borda*/
   font-family:Courier New;
