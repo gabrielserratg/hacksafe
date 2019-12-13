@@ -48,18 +48,18 @@ li a:hover:not(.active) {
 }
 
 footer {
-  height: 35px; 
+  height: 35px;
   left: 0;
   width: 100%;
-  bottom: 0px; 
-  background-color: #66ff00; 
-  color: #fff; 
-  position: fixed; 
-  padding-top:20px; 
-  padding-bottom:10px; 
-  text-align:center; 
-  font-size:30px; 
- 
+  bottom: 0px;
+  background-color: #66ff00;
+  color: #fff;
+  position: fixed;
+  padding-top:20px;
+  padding-bottom:10px;
+  text-align:center;
+  font-size:30px;
+
 }
 
 .insta {
@@ -67,5 +67,5 @@ footer {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    
+
 }
